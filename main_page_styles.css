@@ -91,7 +91,9 @@ header>p{
     padding-right: 32px;
     box-sizing: border-box;
 }
-
+.section4>p{
+	text-align: right;
+}
 
 #x {
 	text-align: right;
